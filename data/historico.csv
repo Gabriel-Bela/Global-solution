@@ -1,0 +1,13 @@
+id,dia,de,para
+001,3,aberta,em_analise
+004,3,aberta,em_analise
+008,3,aberta,em_analise
+002,4,aberta,em_analise
+011,4,aberta,em_analise
+005,5,aberta,em_analise
+009,5,aberta,em_analise
+008,5,em_analise,concluida
+001,6,em_analise,concluida
+012,6,aberta,em_analise
+005,8,em_analise,concluida
+011,9,em_analise,concluida

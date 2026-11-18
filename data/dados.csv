@@ -1,0 +1,16 @@
+id,categoria,descricao,bairro,local,dia_abertura,status,dia_conclusao
+001,iluminacao,Poste apagado na rua principal,Jardim Esperanca,Praca Central,1,concluida,6
+002,iluminacao,Lampada piscando no ponto de onibus,Jardim Esperanca,Ponto de onibus,2,em_analise,
+003,iluminacao,Trecho escuro perto da escola,Vila Nova,Rua da Escola,3,aberta,
+004,acessibilidade,Calcada sem rampa de acesso,Jardim Esperanca,Rua das Flores,1,em_analise,
+005,acessibilidade,Piso tatil danificado,Centro,Praca da Matriz,2,concluida,8
+006,acessibilidade,Rampa muito inclinada na quadra,Vila Nova,Quadra Esportiva,4,aberta,
+007,acessibilidade,Falta de vaga reservada,Centro,Mercado Municipal,5,aberta,
+008,limpeza,Lixo acumulado na esquina,Vila Nova,Rua do Comercio,2,concluida,5
+009,limpeza,Bueiro entupido com folhas,Jardim Esperanca,Rua das Flores,3,em_analise,
+010,limpeza,Entulho em terreno baldio,Centro,Travessa Sul,6,aberta,
+011,conservacao,Banco quebrado na praca,Centro,Praca da Matriz,1,concluida,9
+012,conservacao,Parquinho com brinquedo solto,Vila Nova,Parquinho Municipal,4,em_analise,
+013,conservacao,Muro da quadra com rachaduras,Jardim Esperanca,Quadra Esportiva,7,aberta,
+014,,Buraco na calcada,Centro,Rua Norte,5,aberta,
+015,limpeza,Caixa de coleta transbordando,Vila Nova,Praca do Lago,6,pendente,
